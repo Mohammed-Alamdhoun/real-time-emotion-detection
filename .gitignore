@@ -1,0 +1,16 @@
+.vscode/
+*.db
+
+.git/
+.gitignore~
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+conda-env/
+tf_env/
+
+FERPlus/
